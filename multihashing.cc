@@ -45,7 +45,7 @@ extern "C" {
     #include "zr5.h"
     #include "yescrypt/yescrypt.h"
     #include "yescrypt/sha256_Y.h"
-    #include "sysendian.h"
+    #include "yescrypt/sysendian.h"
 }
 
 #include "boolberry.h"
